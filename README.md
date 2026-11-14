@@ -58,7 +58,7 @@ Monika-Portfolio/
 
 Clone the repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone [YOUR_GITHUB_REPOSITORY_URL](https://github.com/Monikakote12/Monika-portfolio.git)
 
 Open the project folder in Visual Studio Code.
 
